@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: GitHub IO 개설
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+안녕하세요? 정주형입니다.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+앞으로 Software 품질에 관한 이야기를 같이 소통할 수 있는 공간이길 빕니다.
+
+![Character.jpg]({{site.baseurl}}/_posts/Character.jpg)
+
+[동남권SW품질역량센터](http://dsq.busanit.or.kr)
+
